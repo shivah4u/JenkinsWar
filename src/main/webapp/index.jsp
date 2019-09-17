@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Shiva Deployed War File to tomcat</h2>
+<h2>Shiva Deployed new War File to tomcat</h2>
 </body>
 </html>
